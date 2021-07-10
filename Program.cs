@@ -58,6 +58,7 @@ namespace BenchMark_Testing
             }
             return sum;
         }
+
         [Benchmark]
         public int IEnumerable()
         {
