@@ -1,0 +1,136 @@
+D:\BenchmarkTesting\BenchMark Testing\bin\Debug\netcoreapp3.1\TraceReloggerLib.dll
+D:\BenchmarkTesting\BenchMark Testing\bin\Debug\netcoreapp3.1\Dia2Lib.dll
+D:\BenchmarkTesting\BenchMark Testing\bin\Debug\netcoreapp3.1\OSExtensions.dll
+D:\BenchmarkTesting\BenchMark Testing\bin\Debug\netcoreapp3.1\x86\KernelTraceControl.dll
+D:\BenchmarkTesting\BenchMark Testing\bin\Debug\netcoreapp3.1\x86\KernelTraceControl.Win61.dll
+D:\BenchmarkTesting\BenchMark Testing\bin\Debug\netcoreapp3.1\x86\msdia140.dll
+D:\BenchmarkTesting\BenchMark Testing\bin\Debug\netcoreapp3.1\x86\msvcp140.dll
+D:\BenchmarkTesting\BenchMark Testing\bin\Debug\netcoreapp3.1\x86\vcruntime140.dll
+D:\BenchmarkTesting\BenchMark Testing\bin\Debug\netcoreapp3.1\amd64\KernelTraceControl.dll
+D:\BenchmarkTesting\BenchMark Testing\bin\Debug\netcoreapp3.1\amd64\msdia140.dll
+D:\BenchmarkTesting\BenchMark Testing\bin\Debug\netcoreapp3.1\amd64\msvcp140.dll
+D:\BenchmarkTesting\BenchMark Testing\bin\Debug\netcoreapp3.1\amd64\vcruntime140.dll
+D:\BenchmarkTesting\BenchMark Testing\bin\Debug\netcoreapp3.1\amd64\vcruntime140_1.dll
+D:\BenchmarkTesting\BenchMark Testing\bin\Debug\netcoreapp3.1\BenchMark Testing.exe
+D:\BenchmarkTesting\BenchMark Testing\bin\Debug\netcoreapp3.1\BenchMark Testing.deps.json
+D:\BenchmarkTesting\BenchMark Testing\bin\Debug\netcoreapp3.1\BenchMark Testing.runtimeconfig.json
+D:\BenchmarkTesting\BenchMark Testing\bin\Debug\netcoreapp3.1\BenchMark Testing.runtimeconfig.dev.json
+D:\BenchmarkTesting\BenchMark Testing\bin\Debug\netcoreapp3.1\BenchMark Testing.dll
+D:\BenchmarkTesting\BenchMark Testing\bin\Debug\netcoreapp3.1\BenchMark Testing.pdb
+D:\BenchmarkTesting\BenchMark Testing\bin\Debug\netcoreapp3.1\BenchmarkDotNet.dll
+D:\BenchmarkTesting\BenchMark Testing\bin\Debug\netcoreapp3.1\BenchmarkDotNet.Annotations.dll
+D:\BenchmarkTesting\BenchMark Testing\bin\Debug\netcoreapp3.1\CommandLine.dll
+D:\BenchmarkTesting\BenchMark Testing\bin\Debug\netcoreapp3.1\Iced.dll
+D:\BenchmarkTesting\BenchMark Testing\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\BenchmarkTesting\BenchMark Testing\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\BenchmarkTesting\BenchMark Testing\bin\Debug\netcoreapp3.1\Microsoft.Diagnostics.NETCore.Client.dll
+D:\BenchmarkTesting\BenchMark Testing\bin\Debug\netcoreapp3.1\Microsoft.Diagnostics.Runtime.dll
+D:\BenchmarkTesting\BenchMark Testing\bin\Debug\netcoreapp3.1\Microsoft.Diagnostics.FastSerialization.dll
+D:\BenchmarkTesting\BenchMark Testing\bin\Debug\netcoreapp3.1\Microsoft.Diagnostics.Tracing.TraceEvent.dll
+D:\BenchmarkTesting\BenchMark Testing\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\BenchmarkTesting\BenchMark Testing\bin\Debug\netcoreapp3.1\Perfolizer.dll
+D:\BenchmarkTesting\BenchMark Testing\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+D:\BenchmarkTesting\BenchMark Testing\bin\Debug\netcoreapp3.1\System.Management.dll
+D:\BenchmarkTesting\BenchMark Testing\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\BenchmarkTesting\BenchMark Testing\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\BenchmarkTesting\BenchMark Testing\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\BenchmarkTesting\BenchMark Testing\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\BenchmarkTesting\BenchMark Testing\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\BenchmarkTesting\BenchMark Testing\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\BenchmarkTesting\BenchMark Testing\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\BenchmarkTesting\BenchMark Testing\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\BenchmarkTesting\BenchMark Testing\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\BenchmarkTesting\BenchMark Testing\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\BenchmarkTesting\BenchMark Testing\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\BenchmarkTesting\BenchMark Testing\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\BenchmarkTesting\BenchMark Testing\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\BenchmarkTesting\BenchMark Testing\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BenchmarkTesting\BenchMark Testing\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BenchmarkTesting\BenchMark Testing\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BenchmarkTesting\BenchMark Testing\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BenchmarkTesting\BenchMark Testing\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BenchmarkTesting\BenchMark Testing\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BenchmarkTesting\BenchMark Testing\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BenchmarkTesting\BenchMark Testing\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BenchmarkTesting\BenchMark Testing\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BenchmarkTesting\BenchMark Testing\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BenchmarkTesting\BenchMark Testing\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BenchmarkTesting\BenchMark Testing\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BenchmarkTesting\BenchMark Testing\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BenchmarkTesting\BenchMark Testing\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+D:\BenchmarkTesting\BenchMark Testing\obj\Debug\netcoreapp3.1\BenchMark Testing.csproj.AssemblyReference.cache
+D:\BenchmarkTesting\BenchMark Testing\obj\Debug\netcoreapp3.1\BenchMark Testing.AssemblyInfoInputs.cache
+D:\BenchmarkTesting\BenchMark Testing\obj\Debug\netcoreapp3.1\BenchMark Testing.AssemblyInfo.cs
+D:\BenchmarkTesting\BenchMark Testing\obj\Debug\netcoreapp3.1\BenchMark Testing.csproj.CoreCompileInputs.cache
+D:\BenchmarkTesting\BenchMark Testing\obj\Debug\netcoreapp3.1\BenchMark Testing.csproj.CopyComplete
+D:\BenchmarkTesting\BenchMark Testing\obj\Debug\netcoreapp3.1\BenchMark Testing.dll
+D:\BenchmarkTesting\BenchMark Testing\obj\Debug\netcoreapp3.1\BenchMark Testing.pdb
+D:\BenchmarkTesting\BenchMark Testing\obj\Debug\netcoreapp3.1\BenchMark Testing.genruntimeconfig.cache
+D:\BenchmarkTesting\benchmark_testing\bin\Debug\netcoreapp3.1\x86\KernelTraceControl.dll
+D:\BenchmarkTesting\benchmark_testing\bin\Debug\netcoreapp3.1\x86\KernelTraceControl.Win61.dll
+D:\BenchmarkTesting\benchmark_testing\bin\Debug\netcoreapp3.1\x86\msdia140.dll
+D:\BenchmarkTesting\benchmark_testing\bin\Debug\netcoreapp3.1\x86\msvcp140.dll
+D:\BenchmarkTesting\benchmark_testing\bin\Debug\netcoreapp3.1\x86\vcruntime140.dll
+D:\BenchmarkTesting\benchmark_testing\bin\Debug\netcoreapp3.1\amd64\KernelTraceControl.dll
+D:\BenchmarkTesting\benchmark_testing\bin\Debug\netcoreapp3.1\amd64\msdia140.dll
+D:\BenchmarkTesting\benchmark_testing\bin\Debug\netcoreapp3.1\amd64\msvcp140.dll
+D:\BenchmarkTesting\benchmark_testing\bin\Debug\netcoreapp3.1\amd64\vcruntime140.dll
+D:\BenchmarkTesting\benchmark_testing\bin\Debug\netcoreapp3.1\amd64\vcruntime140_1.dll
+D:\BenchmarkTesting\benchmark_testing\bin\Debug\netcoreapp3.1\TraceReloggerLib.dll
+D:\BenchmarkTesting\benchmark_testing\bin\Debug\netcoreapp3.1\Dia2Lib.dll
+D:\BenchmarkTesting\benchmark_testing\bin\Debug\netcoreapp3.1\OSExtensions.dll
+D:\BenchmarkTesting\benchmark_testing\bin\Debug\netcoreapp3.1\BenchMark Testing.exe
+D:\BenchmarkTesting\benchmark_testing\bin\Debug\netcoreapp3.1\BenchMark Testing.deps.json
+D:\BenchmarkTesting\benchmark_testing\bin\Debug\netcoreapp3.1\BenchMark Testing.runtimeconfig.json
+D:\BenchmarkTesting\benchmark_testing\bin\Debug\netcoreapp3.1\BenchMark Testing.runtimeconfig.dev.json
+D:\BenchmarkTesting\benchmark_testing\bin\Debug\netcoreapp3.1\BenchMark Testing.dll
+D:\BenchmarkTesting\benchmark_testing\bin\Debug\netcoreapp3.1\BenchMark Testing.pdb
+D:\BenchmarkTesting\benchmark_testing\bin\Debug\netcoreapp3.1\BenchmarkDotNet.dll
+D:\BenchmarkTesting\benchmark_testing\bin\Debug\netcoreapp3.1\BenchmarkDotNet.Annotations.dll
+D:\BenchmarkTesting\benchmark_testing\bin\Debug\netcoreapp3.1\CommandLine.dll
+D:\BenchmarkTesting\benchmark_testing\bin\Debug\netcoreapp3.1\Iced.dll
+D:\BenchmarkTesting\benchmark_testing\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\BenchmarkTesting\benchmark_testing\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\BenchmarkTesting\benchmark_testing\bin\Debug\netcoreapp3.1\Microsoft.Diagnostics.NETCore.Client.dll
+D:\BenchmarkTesting\benchmark_testing\bin\Debug\netcoreapp3.1\Microsoft.Diagnostics.Runtime.dll
+D:\BenchmarkTesting\benchmark_testing\bin\Debug\netcoreapp3.1\Microsoft.Diagnostics.FastSerialization.dll
+D:\BenchmarkTesting\benchmark_testing\bin\Debug\netcoreapp3.1\Microsoft.Diagnostics.Tracing.TraceEvent.dll
+D:\BenchmarkTesting\benchmark_testing\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\BenchmarkTesting\benchmark_testing\bin\Debug\netcoreapp3.1\Perfolizer.dll
+D:\BenchmarkTesting\benchmark_testing\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+D:\BenchmarkTesting\benchmark_testing\bin\Debug\netcoreapp3.1\System.Management.dll
+D:\BenchmarkTesting\benchmark_testing\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\BenchmarkTesting\benchmark_testing\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\BenchmarkTesting\benchmark_testing\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\BenchmarkTesting\benchmark_testing\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\BenchmarkTesting\benchmark_testing\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\BenchmarkTesting\benchmark_testing\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\BenchmarkTesting\benchmark_testing\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\BenchmarkTesting\benchmark_testing\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\BenchmarkTesting\benchmark_testing\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\BenchmarkTesting\benchmark_testing\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\BenchmarkTesting\benchmark_testing\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\BenchmarkTesting\benchmark_testing\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\BenchmarkTesting\benchmark_testing\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\BenchmarkTesting\benchmark_testing\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BenchmarkTesting\benchmark_testing\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BenchmarkTesting\benchmark_testing\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BenchmarkTesting\benchmark_testing\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BenchmarkTesting\benchmark_testing\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BenchmarkTesting\benchmark_testing\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BenchmarkTesting\benchmark_testing\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BenchmarkTesting\benchmark_testing\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BenchmarkTesting\benchmark_testing\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BenchmarkTesting\benchmark_testing\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BenchmarkTesting\benchmark_testing\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BenchmarkTesting\benchmark_testing\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BenchmarkTesting\benchmark_testing\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BenchmarkTesting\benchmark_testing\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+D:\BenchmarkTesting\benchmark_testing\obj\Debug\netcoreapp3.1\BenchMark Testing.csproj.AssemblyReference.cache
+D:\BenchmarkTesting\benchmark_testing\obj\Debug\netcoreapp3.1\BenchMark Testing.AssemblyInfoInputs.cache
+D:\BenchmarkTesting\benchmark_testing\obj\Debug\netcoreapp3.1\BenchMark Testing.AssemblyInfo.cs
+D:\BenchmarkTesting\benchmark_testing\obj\Debug\netcoreapp3.1\BenchMark Testing.csproj.CoreCompileInputs.cache
+D:\BenchmarkTesting\benchmark_testing\obj\Debug\netcoreapp3.1\BenchMark Testing.csproj.CopyComplete
+D:\BenchmarkTesting\benchmark_testing\obj\Debug\netcoreapp3.1\BenchMark Testing.dll
+D:\BenchmarkTesting\benchmark_testing\obj\Debug\netcoreapp3.1\BenchMark Testing.pdb
+D:\BenchmarkTesting\benchmark_testing\obj\Debug\netcoreapp3.1\BenchMark Testing.genruntimeconfig.cache
